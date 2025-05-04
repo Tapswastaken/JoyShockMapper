@@ -1,0 +1,2 @@
+# Joyshockmapper
+El DualSense de Sony PlayStation, el DualShock 4, los Joy-Con de Nintendo Switch (en pares) y el mando Pro de Nintendo Switch tienen mucho en común. Cuentan con muchas de las características esperadas de los mandos de juegos modernos. Además, cuentan con una función increíblemente versátil y poco utilizada que su mayor rival (el mando de Xbox One de Microsoft) no tiene: un giroscopio de 3 ejes (en adelante, "gyro").
