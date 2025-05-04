@@ -6,3 +6,5 @@ Mi objetivo con JoyShockMapper es permitirte jugar juegos de PC con DS, DS4, Joy
 Para los desarrolladores, la versión 2.2 y anteriores sirven como implementación de referencia para usar [JoyShockLibrary](https://github.com/jibbsmart/JoyShockLibrary) y leer las entradas del DualShock 4, el DualSense, los Joy-Con y el control pro en sus juegos. Ahora usa [SDL2](https://github.com/libsdl-org/SDL) para la compatibilidad con los controladores, y he contribuido con código a SDL2 para asegurarme de que incluya las mismas funciones.
 
 JoyShockMapper también es una implementación de referencia para muchas de las mejores prácticas descritas en [GyroWiki](http://gyrowiki.jibbsmart.com).
+
+JoyShockMapper se desarrolla principalmente en Windows. Ahora debería ser compatible con Linux. Consulta las instrucciones a continuación. Si tienes algún problema, avísanos.
